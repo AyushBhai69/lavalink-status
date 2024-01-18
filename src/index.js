@@ -28,4 +28,4 @@ readdirSync("./src/events/").forEach((file) => {
   client.on(eventName, event.bind(null, client));
 });
 
-client.login(token);
+client.login("MTE5Mjg4MTIzMzA2NDEwMzkzNw.GalNFb.uAmczsACnIrbqEb1vFg8qZ4XwNa7mwiZy2YASs");
