@@ -84,10 +84,10 @@ module.exports = async (client) => {
   });
 
   client.user.setPresence({
-    status: "online",
+    status: "dnd",
     activities: [
       {
-        name: "Lavalink Status",
+        name: "Lavalink Status Of —͟͞͞★ ᎶᎧᎫᎧ ᥫ᭡፝֟፝",
         type: ActivityType.Watching,
       },
     ],
